@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/henrydevlab/faq-accordion](https://github.com/henrydevlab/faq-accordion)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://henrydevlab.github.io/faq-accordion/](https://henrydevlab.github.io/faq-accordion/)
 
 ## My process
 
